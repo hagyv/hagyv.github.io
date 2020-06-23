@@ -11,3 +11,7 @@ und nu was
 * dritter
 * vierter
 * fuenfter
+
+Die Person sagte:
+> blah blah blah
+> ...
